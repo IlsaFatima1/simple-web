@@ -24,7 +24,7 @@ export default async function About(){
        <br />
        <br />
        <br />
-    
+    <br /><br /><br /><br /><br /><br /><br />
 
 
 <h1 className="text-right pr-5">  Developed by:Ilsa Fatima </h1>

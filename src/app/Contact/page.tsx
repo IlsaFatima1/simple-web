@@ -25,7 +25,7 @@ export default function Contact(){
        <br />
        <br />
        <br />
-    
+    <br /><br /><br /><br /><br /><br /><br />
 
 
 <h1 className="text-right pr-5">Developed by:Ilsa Fatima</h1>

@@ -1,5 +1,3 @@
-
-throw new Error ("Job page not yet implement")
 export default function Job(){
     return(
 
@@ -24,7 +22,11 @@ export default function Job(){
        <br />
        <br />
        <br />
-    
+       <br />
+       <br />
+       <br />
+       <br />
+       <br /><br />  <br />  
 
 
 <h1 className="text-right pr-5">Developed by:Ilsa Fatima</h1>
@@ -34,9 +36,3 @@ export default function Job(){
     )}
 
 
-// export default function job (){
-//     return (
-//         <h1>my error page;
-//         </h1>
-//     )
-// }
